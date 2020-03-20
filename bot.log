@@ -1,0 +1,4 @@
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
