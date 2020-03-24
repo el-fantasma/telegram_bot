@@ -1,0 +1,4 @@
+certifi==2019.11.28
+emoji==0.5.4
+future==0.18.2
+python-telegram-bot==12.4.2

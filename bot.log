@@ -1,4 +1,326 @@
 telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
 telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
 telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 36, in send_cat
+    bot.send_photo(chat_id=update.message.chat_id, photo=open(cat_pics, 'rb'))
+NameError: name 'update' is not defined
 telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 36, in send_cat
+    bot.send_photo(chat_id=update.message.chat_id, photo=open(cat_pics, 'rb'))
+NameError: name 'update' is not defined
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 36, in send_cat
+    bot.send_photo(chat_id=update.message.chat_id, photo=open(cat_pics, 'rb'))
+NameError: name 'update' is not defined
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 36, in send_cat
+    bot.send_photo(chat_id=update.message.chat_id, photo=open(cat_pics, 'rb'))
+NameError: name 'update' is not defined
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 36, in send_cat
+    bot.send_photo(chat_id=update.message.chat_id, photo=open(cat_pics, 'rb'))
+NameError: name 'update' is not defined
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 36, in send_cat
+    bot.send_photo(chat_id=update.message.chat_id, photo=open(cat_pics, 'rb'))
+NameError: name 'update' is not defined
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+root - INFO - Âûחגאם /start
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 34, in send_cat
+    bot.send_photo(chat_id=update.message.chat.id, photo=open(cat_pics, 'rb'))
+NameError: name 'update' is not defined
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 25, in talk_to_me
+    user_text = "Ïנטגוע {}! Òû םאןטסאכ: {}.".format(update(update.message.chat.first_name, update.message.text))
+TypeError: 'Update' object is not callable
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+root - INFO - Âûחגאם /start
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: dsf
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 34, in send_cat
+    bot.send_photo(chat_id=update.message.chat.id, photo=open(cat_pics, 'rb'))
+NameError: name 'update' is not defined
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 34, in send_cat
+    bot.send_photo(chat_id=message.chat.id, photo=open(cat_pics, 'rb'))
+NameError: name 'message' is not defined
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+root - INFO - Âûחגאם /start
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - Ïנטגוע :smiley_imp:
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: dgfgdfg
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: rterte
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: tyuytuty
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 29, in talk_to_me
+    user_text = "Ïנטגוע {} {}! Òû םאןטסאכ: {}.".format(update.message.chat.first_name, user_data['emo'], update.message.text)
+KeyError: 'emo'
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 29, in talk_to_me
+    user_text = "Ïנטגוע {} {}! Òû םאןטסאכ: {}.".format(update.message.chat.first_name, user_data['emo'], update.message.text)
+KeyError: 'emo'
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 29, in talk_to_me
+    user_text = "Ïנטגוע {} {}! Òû םאןטסאכ: {}.".format(update.message.chat.first_name, user_data['emo'], update.message.text)
+KeyError: 'emo'
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+root - INFO - User: None, Chat id: 863391865, Message: dfsdf
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: 67
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: 64564ghfgh
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0457A340>, 'Connection to telegg.ru timed out. (connect timeout=5.0)')': /orig/bot1075912832:AAF1n7hjFG4h7i1PFMhZUhSBTccvfXZCNTI/getMe
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x0457A0E8>, 'Connect timed out. (connect timeout=5.0)')': /orig/bot1075912832:AAF1n7hjFG4h7i1PFMhZUhSBTccvfXZCNTI/getMe
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connectionpool.HTTPSConnectionPool object at 0x0457A0E8>, 'Connect timed out. (connect timeout=5.0)')': /orig/bot1075912832:AAF1n7hjFG4h7i1PFMhZUhSBTccvfXZCNTI/getMe
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: גאןגא
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: dfgdf
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: replace_user_emo() got multiple values for argument 'user_data'
+root - INFO - User: None, Chat id: 863391865, Message: fsdfgsd
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: replace_user_emo() got multiple values for argument 'user_data'
+root - INFO - User: None, Chat id: 863391865, Message: dfgg
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: replace_user_emo() got multiple values for argument 'user_data'
+root - INFO - User: None, Chat id: 863391865, Message: sdas
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: frdesf
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: sad
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: fdsafasdef
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: sdfasdfa
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: gggh
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: hghgh
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: sdfsdf
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: ghfg
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+root - INFO - User: None, Chat id: 863391865, Message: fsfsd
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 26, in greet_user
+    update.message.reply_text(text, reply_markup=my_keyboard)
+NameError: name 'my_keyboard' is not defined
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 26, in greet_user
+    update.message.reply_text(text, reply_markup=my_keyboard)
+NameError: name 'my_keyboard' is not defined
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.dispatcher - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\dispatcher.py", line 390, in process_update
+    handler.handle_update(update, self, check, context)
+  File "C:\Users\הכהכה\AppData\Local\Programs\Python\Python38-32\lib\site-packages\telegram\ext\handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_cat.py", line 26, in greet_user
+    update.message.reply_text(text, reply_markup=my_keyboard)
+NameError: name 'my_keyboard' is not defined
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.ext.updater - WARNING - Connection pool of Request object is smaller than optimal value (8)
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Connection pool is full, discarding connection: telegg.ru
